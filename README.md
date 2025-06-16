@@ -61,7 +61,7 @@ A simple Node.js Express server with a "Hello World" endpoint.
 4. **Run the server**
    - Start the server with:
      ```
-     node server.js
+     node server.ts
      ```
    - You should see: `Server is running on http://localhost:3000`
 
